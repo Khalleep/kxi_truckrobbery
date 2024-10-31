@@ -1,0 +1,4 @@
+    ['drill'] = {
+		label = 'Drill',
+		weight = 160,
+	},
